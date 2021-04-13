@@ -12,7 +12,7 @@ Instructions
   https://github.com/tangible-landscape/grass-tangible-landscape/wiki/Running-analyses-and-developing-workflows#python-workflows
 
 - All gs.run_command/read_command/write_command/parse_command
-  need to be passed env parameter (..., env=env)
+  need to be passed env parameter (..., env=env)ok
 """
 
 import grass.script as gs
